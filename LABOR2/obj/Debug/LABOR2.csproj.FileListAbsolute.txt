@@ -1,0 +1,9 @@
+C:\Users\antal\source\repos\LABOR2\obj\Debug\LABOR2.csproj.AssemblyReference.cache
+C:\Users\antal\source\repos\LABOR2\obj\Debug\LABOR2.Properties.Resources.resources
+C:\Users\antal\source\repos\LABOR2\obj\Debug\LABOR2.csproj.GenerateResource.cache
+C:\Users\antal\source\repos\LABOR2\obj\Debug\LABOR2.csproj.CoreCompileInputs.cache
+C:\Users\antal\source\repos\LABOR2\bin\Debug\LABOR2.exe.config
+C:\Users\antal\source\repos\LABOR2\bin\Debug\LABOR2.exe
+C:\Users\antal\source\repos\LABOR2\bin\Debug\LABOR2.pdb
+C:\Users\antal\source\repos\LABOR2\obj\Debug\LABOR2.exe
+C:\Users\antal\source\repos\LABOR2\obj\Debug\LABOR2.pdb
